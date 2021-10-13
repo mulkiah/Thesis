@@ -3,7 +3,7 @@
 My master thesis project about compression-encryption
 I'm using GAN for Image Compression and Chaotic Map for encryption.
 
-I choose encryption topic because my bachelor degree was Mathematics, and I am really happy and my research interest is about trinion number and contribute in image encryption.
+I choose encryption topic because my bachelor degree was Mathematics, and my research interest during undergraduate is about trinion number and it can be used in image encryption.
 My past research : https://www.researchgate.net/publication/308118488_Real_matrix_representation_for_trinion_numbers_and_its_properties
 
 paper about the use of trinion number in color image encryption:
