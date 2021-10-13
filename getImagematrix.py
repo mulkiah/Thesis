@@ -1,3 +1,5 @@
+# Function to get Image matrix from Pixel Access object
+
 def getImageMatrix(imageName):
     im = Image.open(imageName) 
     pix = im.load()
