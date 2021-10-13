@@ -9,9 +9,10 @@ My past research : https://www.researchgate.net/publication/308118488_Real_matri
 paper about the use of trinion number in color image encryption:
 https://www.researchgate.net/publication/343262222_Color_image_encryption_based_on_discrete_trinion_Fourier_transform_and_random-multiresolution_singular_value_decomposition
 
-In the future, I wish I can do research about hypercomplex number valued deep learning. 
+In the future, I wish I can do research about hypercomplex number valued deep learning. :)
+I hope the code will useful and feel free to contact me! :)
 
 ------------------------------------------------------------
 References used in this code :
-https://github.com/RachanaJayaram/Image-Encryption-Chaos-Maps/blob/master/ChaosEncryption.ipynb
+https://github.com/RachanaJayaram/Image-Encryption-Chaos-Maps
 
